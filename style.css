@@ -50,6 +50,7 @@ a{
     display: flex;
     background-image: url('images/shapes/7.png');
     background-repeat: no-repeat;
+    background-size: cover;
     margin-bottom: 50px;
 }
 .about-left{
@@ -113,6 +114,7 @@ section.recipies {
     display: flex;
     background-image: url('images/shapes/7.png');
     background-repeat: no-repeat;
+    background-size: cover;
     margin-bottom: 50px;
 }
 .recipies-contest-title{
